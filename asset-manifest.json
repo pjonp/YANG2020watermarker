@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/profile-image-watermarker/static/css/main.6d4d6e32.chunk.css",
+    "main.js": "/profile-image-watermarker/static/js/main.3e0cbdd6.chunk.js",
+    "main.js.map": "/profile-image-watermarker/static/js/main.3e0cbdd6.chunk.js.map",
+    "runtime-main.js": "/profile-image-watermarker/static/js/runtime-main.f493a2b4.js",
+    "runtime-main.js.map": "/profile-image-watermarker/static/js/runtime-main.f493a2b4.js.map",
+    "static/css/2.6ede3073.chunk.css": "/profile-image-watermarker/static/css/2.6ede3073.chunk.css",
+    "static/js/2.3b547b20.chunk.js": "/profile-image-watermarker/static/js/2.3b547b20.chunk.js",
+    "static/js/2.3b547b20.chunk.js.map": "/profile-image-watermarker/static/js/2.3b547b20.chunk.js.map",
+    "index.html": "/profile-image-watermarker/index.html",
+    "precache-manifest.4255ea822ffea94f7f2c4be1056dfce6.js": "/profile-image-watermarker/precache-manifest.4255ea822ffea94f7f2c4be1056dfce6.js",
+    "service-worker.js": "/profile-image-watermarker/service-worker.js",
+    "static/css/2.6ede3073.chunk.css.map": "/profile-image-watermarker/static/css/2.6ede3073.chunk.css.map",
+    "static/css/main.6d4d6e32.chunk.css.map": "/profile-image-watermarker/static/css/main.6d4d6e32.chunk.css.map",
+    "static/js/2.3b547b20.chunk.js.LICENSE": "/profile-image-watermarker/static/js/2.3b547b20.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f493a2b4.js",
+    "static/css/2.6ede3073.chunk.css",
+    "static/js/2.3b547b20.chunk.js",
+    "static/css/main.6d4d6e32.chunk.css",
+    "static/js/main.3e0cbdd6.chunk.js"
+  ]
+}
