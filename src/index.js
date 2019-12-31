@@ -72,7 +72,7 @@ useEffect( () => {
       minWidth: 512,
       maxWidth: 512,
     }).toDataURL()
-    watermark([cropSelection, watermarkOptions[selectedWatermark]])
+    watermark([cropSelection, process.env.PUBLIC_URL + watermarkOptions[selectedWatermark]])
       .dataUrl(watermark.image.center(watermarkLevel))
       .then(function (url) {
     downloadHelper('YANG2020', url)
