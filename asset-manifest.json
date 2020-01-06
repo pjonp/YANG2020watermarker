@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/profile-image-watermarker/static/css/main.8309157d.chunk.css",
-    "main.js": "/profile-image-watermarker/static/js/main.ddb8babb.chunk.js",
-    "main.js.map": "/profile-image-watermarker/static/js/main.ddb8babb.chunk.js.map",
+    "main.css": "/profile-image-watermarker/static/css/main.d1a15628.chunk.css",
+    "main.js": "/profile-image-watermarker/static/js/main.9c050047.chunk.js",
+    "main.js.map": "/profile-image-watermarker/static/js/main.9c050047.chunk.js.map",
     "runtime-main.js": "/profile-image-watermarker/static/js/runtime-main.f493a2b4.js",
     "runtime-main.js.map": "/profile-image-watermarker/static/js/runtime-main.f493a2b4.js.map",
     "static/css/2.6ede3073.chunk.css": "/profile-image-watermarker/static/css/2.6ede3073.chunk.css",
-    "static/js/2.3b547b20.chunk.js": "/profile-image-watermarker/static/js/2.3b547b20.chunk.js",
-    "static/js/2.3b547b20.chunk.js.map": "/profile-image-watermarker/static/js/2.3b547b20.chunk.js.map",
+    "static/js/2.fd0865b6.chunk.js": "/profile-image-watermarker/static/js/2.fd0865b6.chunk.js",
+    "static/js/2.fd0865b6.chunk.js.map": "/profile-image-watermarker/static/js/2.fd0865b6.chunk.js.map",
     "index.html": "/profile-image-watermarker/index.html",
-    "precache-manifest.6964df7bfc2607f28c420ef2811c0ff4.js": "/profile-image-watermarker/precache-manifest.6964df7bfc2607f28c420ef2811c0ff4.js",
+    "precache-manifest.83d34edcf9541879fb2d6c8527e8304b.js": "/profile-image-watermarker/precache-manifest.83d34edcf9541879fb2d6c8527e8304b.js",
     "service-worker.js": "/profile-image-watermarker/service-worker.js",
     "static/css/2.6ede3073.chunk.css.map": "/profile-image-watermarker/static/css/2.6ede3073.chunk.css.map",
-    "static/css/main.8309157d.chunk.css.map": "/profile-image-watermarker/static/css/main.8309157d.chunk.css.map",
-    "static/js/2.3b547b20.chunk.js.LICENSE": "/profile-image-watermarker/static/js/2.3b547b20.chunk.js.LICENSE"
+    "static/css/main.d1a15628.chunk.css.map": "/profile-image-watermarker/static/css/main.d1a15628.chunk.css.map",
+    "static/js/2.fd0865b6.chunk.js.LICENSE": "/profile-image-watermarker/static/js/2.fd0865b6.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.f493a2b4.js",
     "static/css/2.6ede3073.chunk.css",
-    "static/js/2.3b547b20.chunk.js",
-    "static/css/main.8309157d.chunk.css",
-    "static/js/main.ddb8babb.chunk.js"
+    "static/js/2.fd0865b6.chunk.js",
+    "static/css/main.d1a15628.chunk.css",
+    "static/js/main.9c050047.chunk.js"
   ]
 }
