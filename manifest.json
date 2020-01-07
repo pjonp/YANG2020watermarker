@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Watermark Avatar Creator",
+  "name": "Social profile image watermark webapp",
   "icons": [
     {
       "src": "favicon.ico",
